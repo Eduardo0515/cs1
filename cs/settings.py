@@ -25,7 +25,7 @@ SECRET_KEY = 'n_w@m7xgq$4=1okp12i0txoiykmqwn$^(w!ua=(b!abag5=)ir'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','35.171.20.161','hugorz.ddns.net']
+ALLOWED_HOSTS = ['localhost','35.171.20.161']
 #ALLOWED_HOSTS = ['*']
 
 # Application definition
